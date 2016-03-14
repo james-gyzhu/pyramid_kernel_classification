@@ -1,4 +1,4 @@
-Pyramid Match Kernel for Classification
+Pyramid Match Kernel for Pattern Classification
 =================
 
 The set of C++ code of Pyramid Match Kernel for Pattern Classification
